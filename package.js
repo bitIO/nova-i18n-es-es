@@ -1,8 +1,8 @@
 Package.describe({
-  name: "nova:i18n-es-es",
+  name: "fcallem:nova-i18n-es-es",
   summary: "Telescope i18n package (es_ES)",
   version: "0.26.3-nova",
-  git: "https://github.com/TelescopeJS/telescope.git"
+  git: "https://github.com/bitIO/nova-i18n-es-es"
 });
 
 Package.onUse(function (api) {
